@@ -1,6 +1,6 @@
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Приветствую+друг!+👋;Рад+тебя+видеть+....;На+моей+страничке!&center=true&size=30">
-  </a>
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Приветствую+друг!+👋;Рад+тебя+видеть+....;На+моей+страничке!&center=true&size=35">
+ </a>
 <h2 align="left">
 <h1> Я Александр, Frontend-разработчик из Москвы. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p>Добро пожаловать на мою страницу!</p>
