@@ -1,10 +1,11 @@
+
+<h2 align="left">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Привет! Рад тебя видеть.</h1>
-
-
 <p>Добро пожаловать на мою страницу! </br>
 Я Александр, Frontend-разработчик из Москвы. </p>
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</h2> 
 <h3>Вещи, с помощью которых я кодирую</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
