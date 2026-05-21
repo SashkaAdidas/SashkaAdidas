@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Привет! Рад тебя видеть.</h1>
 
 
-<p>Добро пожаловать на мою страницу! </br> Я Александр, Frontend-разработчик из Москвы. </p>
+<p>Добро пожаловать на мою страницу! </br> Я Александр, Frontend-разработчик из Москвы. <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></p>
 <h3>Вещи, с помощью которых я кодирую</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
