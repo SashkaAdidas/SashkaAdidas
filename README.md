@@ -12,7 +12,7 @@
   <img src="https://cdn.simpleicons.org/vk/0077FF" alt="VK" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://mail.google.com/mail/?to=Sashka1983x@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/D30001" alt="Email" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/gmail/00DD00" alt="Email" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://t.me/A_Globus" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40"/>
