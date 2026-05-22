@@ -7,7 +7,7 @@
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
- ### Связь со мной =>&nbsp;&nbsp;&nbsp;
+ ### Связь со мной &#128222; =>&nbsp;&nbsp;&nbsp;
 <a href="https://vk.com/id176066838" target="_blank">
   <img src="https://cdn.simpleicons.org/vk/0077FF" alt="VK" width="40" height="40"/>
 </a>&nbsp;
