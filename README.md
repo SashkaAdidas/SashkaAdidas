@@ -47,13 +47,13 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
-    alt="Figma"
-    width="40"
-    height="40"
-  />
-</a>
+    <img
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+       alt="Figma"
+       width="40"
+       height="40"
+       />
+    </a>
     <a href="https://playwright.dev/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/>
     </a>
