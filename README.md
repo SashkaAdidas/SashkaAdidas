@@ -11,13 +11,13 @@
 <a href="https://vk.com/id176066838" target="_blank">
   <img src="https://cdn.simpleicons.org/vk/0077FF" alt="VK" width="40" height="40"/>
 </a>&nbsp;
+<a href="https://mail.google.com/mail/?to=Sashka1983x@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/D30001" alt="Email" width="40" height="40"/>
+</a>&nbsp;
 <a href="https://t.me/A_Globus" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40"/>
-</a>&nbsp;
-<a href="https://mail.google.com/mail/?to=Sashka1983x@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
 </a>
-    <h3>Инструменты, с помощью которых я кодирую &#128295;:</h3>
+  <h3>Инструменты, с помощью которых я кодирую &#128295;:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
