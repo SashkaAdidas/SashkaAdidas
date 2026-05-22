@@ -1,5 +1,5 @@
  <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Приветствую+коллега!+👋;Рад+тебя+видеть+&#128154;+&#128154;+&#128154;;На+моей+страничке!&center=true&size=28">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Приветствую+коллега!+👋;Рад+тебя+видеть+&#128154;+&#128154;+&#128154;;На+моей+страничке!+&#129488;&center=true&size=28">
  </a>
 <h2 align="left">
 <h1> Я Александр, Frontend-разработчик из Москвы. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
@@ -7,7 +7,7 @@
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
-    <h3>Инструменты, с помощью которых я кодирую :</h3>
+    <h3>Инструменты, с помощью которых я кодирую &#128295;:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
