@@ -8,13 +8,13 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
 ### Связь со мной:&nbsp;&nbsp;&nbsp;
-<a href="https://vk.com/id176066838">
+<a href="https://vk.com/id176066838" target="_blank">
   <img src="https://cdn.simpleicons.org/vk/0077FF" alt="VK" width="40" height="40"/>
 </a>&nbsp;
-<a href="https://t.me/A_Globus">
+<a href="https://t.me/A_Globus" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/0088CC" alt="Telegram" width="40" height="40"/>
 </a>&nbsp;
-<a href="mailto:Sashka1983x@gmail.com">
+<a href="https://mail.google.com/mail/?to=Sashka1983x@gmail.com" target="_blank">
   <img src="https://cdn.simpleicons.org/gmail/DB4437" alt="Email" width="40" height="40"/>
 </a>
     <h3>Инструменты, с помощью которых я кодирую &#128295;:</h3>
