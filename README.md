@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Приветствую+коллега!+👋;Рад+тебя+видеть+&#128154;+&#128154;+&#128154;;На+моей+страничке!+....&center=true&size=28">
  </a>
 <h2 align="left">
-<h1> Я Александр, Frontend-разработчик из Москвы. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1> Я Александр,Frontend-разработчик,в будущем богатый человек <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p>Добро пожаловать на мою страницу!</p>
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
